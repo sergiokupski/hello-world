@@ -1,3 +1,3 @@
 # hello-world
-tutorial
+tutorial\n
 Trying tutorial
